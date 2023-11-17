@@ -19,11 +19,8 @@
 
 body {
     min-height: 100vh;
-    background: url('./images/bg-pattern-top.svg') top -800px left -300px no-repeat, url('./images/bg-pattern-bottom.svg') bottom -800px right -00px no-repeat;
-    background-size: 50%;
-    background-color: var(--color-dark-cyan);
+    background: url('./images/bg-pattern-top.svg') top -125% left -300px no-repeat, url('./images/bg-pattern-bottom.svg') bottom -125% right -300px no-repeat;
     background-color: var(--Dark-cyan);
-    color: var(--Slightly-transparent-white-stat-headings);
     font-family: var(--font-family);
     font-size: var(--font-size);
     display: flex;
