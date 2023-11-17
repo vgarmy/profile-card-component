@@ -1,0 +1,13 @@
+footer {
+    padding: 1rem;
+    text-align: center;
+    color: var(--Dark-grayish-blue);
+}
+
+footer p{
+    font-size: 0.6rem;
+}
+
+footer a {
+    color: var(--Very-dark-desaturated-blue);
+}

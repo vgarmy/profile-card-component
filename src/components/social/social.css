@@ -1,0 +1,25 @@
+.card_container_social{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    align-content: flex-start;
+    flex-direction: row;
+    text-align: center;
+    gap: 2rem;
+    padding: 2rem;
+    box-shadow: var(--Dark-gray) 0px 0px 1px;
+}
+
+.card_container_social_summary_total{
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: var(--Very-dark-desaturated-blue);
+}
+
+.card_container_social_summary_type{
+    font-size: 0.8rem;
+    font-weight: 700;
+    color: var(--Dark-gray);
+    letter-spacing: 0.1rem;
+}
